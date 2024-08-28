@@ -1,0 +1,6 @@
+sources:
+  - name: database_name
+    schema: schema_name
+    tables:
+      - name: table_alias
+        identifier: table_name
